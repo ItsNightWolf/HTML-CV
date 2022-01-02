@@ -1,2 +1,2 @@
 # HTML-CV
-My folder for my html cv
+An extremely basic website created only using html with no styling. None. At all.
